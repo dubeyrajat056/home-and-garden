@@ -1,0 +1,28 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+}
+
+.producthero img {
+    width: 100%;
+    height: auto;
+}
+
+.article-title {
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+.subscribe-section input[type="email"] {
+    max-width: 400px;
+}
+
+.read-more img {
+    width: 100%;
+    height: auto;
+}
+
+.read-more-title {
+    font-size: 1rem;
+    font-weight: bold;
+}
